@@ -1,0 +1,13 @@
+# Secrets — real values live only on your machine / server
+backend/config.php
+mobile-app/src/config.js
+
+# Node / Expo
+mobile-app/node_modules/
+mobile-app/.expo/
+mobile-app/dist/
+mobile-app/web-build/
+mobile-app/*.log
+
+# OS
+.DS_Store
